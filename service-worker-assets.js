@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "7R/BZK8k",
+  "version": "YGVh4awP",
   "assets": [
     {
       "hash": "sha256-mnSSuwtYKHmJSKRirVD2+hD+JqWp8ZaDk37+rkHvJzk=",
@@ -62,7 +62,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.wasm"
     },
     {
-      "hash": "sha256-uJdBTpDRFmWOnf7et029up4Bjv8VOdjSfTBuSPkZbmc=",
+      "hash": "sha256-dRwO/AlrGXfeubZkvmMrs7xixwLWweeeBsadDicpIOE=",
       "url": "_framework/RatChessTournament.wasm"
     },
     {
@@ -134,7 +134,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-sBtB+sVJclFOsPRYRTujBqAlpn6IUuKYzXA+fblY2x8=",
+      "hash": "sha256-F4hWu1f/DpHLBgTIRvo4fLovWavPmm8xW1FoxiYmYqo=",
       "url": "_framework/blazor.boot.json"
     },
     {
