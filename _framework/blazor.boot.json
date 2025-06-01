@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RatChessTournament",
   "resources": {
-    "hash": "sha256-Xbk9QOhdZRTez49bAF+vszuP8L3fdg7Dgd2iHjSMT9c=",
+    "hash": "sha256-7L1LvirJJ4gJ8qtbRCef9zAZTt1dr5hfTA7HxUcEeNU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -49,7 +49,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-gdDiokkQnEJbr4ZVd9yHkDctHslFoHgNhiIH0omrPV4=",
       "System.Threading.wasm": "sha256-uEADCjlSlo/6vVBIX8IqabSf+UEtazcpcP5TNzWVyVw=",
       "System.Private.CoreLib.wasm": "sha256-pz3xkv+euvuBY0taKR67mGz3C5PnJVV62fmSqFfRu/U=",
-      "RatChessTournament.wasm": "sha256-F1s/dwW5hgwbNu0Udij167x5vlRd2ZKK8Zs+q4+Lzjs="
+      "RatChessTournament.wasm": "sha256-S5orCEcf3MadJ5JieefWspzuelbAuLO6qYHLArEhOiI="
     }
   },
   "cacheBootResources": true,
