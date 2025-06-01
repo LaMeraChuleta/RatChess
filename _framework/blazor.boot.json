@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RatChessTournament",
   "resources": {
-    "hash": "sha256-oxXZCkXseOsDkEKYTaIQnrki9yzEu5v7GVGqNKhiwMA=",
+    "hash": "sha256-oTVlnCElULH/so4BsbZmlQKuVFLfErJKYamS02Jhayg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "Microsoft.AspNetCore.Components.wasm": "sha256-Cx9y4vGM7aU6Uc10/v8f+vcJ2xd/a2KMabAZ7xe7KZY=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-NYECQ0vvEKHQbXkfH1l88Mc0t+4ZQmHLxe6CfIYOAZ4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-YBo05jwwpO4uPXIbILQOXgv5Yq9IgMFtG8Wxykcx7vY=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-9BvHREQWEIdW8gRIV5ZXtGyaHdxZw8eOrWJ1OqWrLT8=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
@@ -36,20 +36,20 @@
       "System.Collections.Concurrent.wasm": "sha256-uDiucUX/OnmcHjE9wcdyphPhJT5YmNIeQ1bp5FjiAKA=",
       "System.Collections.wasm": "sha256-seYuwNlXGdZlWPtrUe/8QitLVTjGeLgvjL+qtVEHSSk=",
       "System.ComponentModel.wasm": "sha256-IYiS8atQVwkYAflPs8m6BRCgI2804RatWwg2UGnGMzU=",
-      "System.Console.wasm": "sha256-hPECRwlKEllkRT2QC9o5MzZUIgUzftKpUrz33UPLVJw=",
-      "System.Linq.wasm": "sha256-Hdt7Xco6IbrCFf36PoahAQKmGPy7e1nc9MazSSlLBW8=",
+      "System.Console.wasm": "sha256-av1eNgJgpg1afisqES70BMJKwQxkTAK8Iu8HugeLo24=",
+      "System.Linq.wasm": "sha256-HNUZ4CRg1SdywOJp7P36a/BN9omA3aOhXEpsjpyhkk8=",
       "System.Memory.wasm": "sha256-MWAHg+YFxgBvZZyzqKGl4SjtgN2Rwy6LtleghJHqTr4=",
       "System.Net.Http.wasm": "sha256-ycR2wpBRxZ8012rnWnVSVsffu5kbA69QfENzSklrCck=",
       "System.Net.Primitives.wasm": "sha256-bGBc5CV6CYVgYNwCw+F/iD0y/Zf++hC5PUlTw0WigSw=",
       "System.Private.Uri.wasm": "sha256-Zjng7wLBbMIiotSkf8D3m09z2l1ko/iToiJfnRp3yOc=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-oFUf4tkY5qAwrtxz/glH18iFJDNxoQBXRsP04eu06Tg=",
-      "System.Runtime.wasm": "sha256-H+waIfkLEw6UFSdSlqL2mPr5Bihj7v3TtS0cQgKJwq0=",
+      "System.Runtime.wasm": "sha256-ZQJQf4g0aHALyAbKQ+gWB20JIyPmITSQLkeQk4j3sQU=",
       "System.Text.Encodings.Web.wasm": "sha256-cT0gUqY2VhbDmvQxpulllXn00KgHu1fkmyjMeQtUTvM=",
       "System.Text.Json.wasm": "sha256-TvVVyet/lF/2DVSnm3oWKHkqBci170d6+QdmgezdBkE=",
       "System.Text.RegularExpressions.wasm": "sha256-gdDiokkQnEJbr4ZVd9yHkDctHslFoHgNhiIH0omrPV4=",
       "System.Threading.wasm": "sha256-uEADCjlSlo/6vVBIX8IqabSf+UEtazcpcP5TNzWVyVw=",
-      "System.Private.CoreLib.wasm": "sha256-EueNenB7T23j2XHLFJngMq+bFplEnyTlfzYBM4a4BXc=",
-      "RatChessTournament.wasm": "sha256-5E+OZSISxNpaqwMIQzJhF/PHPDwv9v4VEMkKOC7MiLY="
+      "System.Private.CoreLib.wasm": "sha256-pz3xkv+euvuBY0taKR67mGz3C5PnJVV62fmSqFfRu/U=",
+      "RatChessTournament.wasm": "sha256-/wu8issn5Ws5XKdPvKxqWxJ6zrcNOM4n18Wf93EsPx4="
     }
   },
   "cacheBootResources": true,

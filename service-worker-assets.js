@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "LjdIT/jW",
+  "version": "ytPpFKcL",
   "assets": [
     {
       "hash": "sha256-mnSSuwtYKHmJSKRirVD2+hD+JqWp8ZaDk37+rkHvJzk=",
@@ -18,7 +18,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-Cx9y4vGM7aU6Uc10/v8f+vcJ2xd/a2KMabAZ7xe7KZY=",
+      "hash": "sha256-NYECQ0vvEKHQbXkfH1l88Mc0t+4ZQmHLxe6CfIYOAZ4=",
       "url": "_framework/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -66,7 +66,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.wasm"
     },
     {
-      "hash": "sha256-5E+OZSISxNpaqwMIQzJhF/PHPDwv9v4VEMkKOC7MiLY=",
+      "hash": "sha256-/wu8issn5Ws5XKdPvKxqWxJ6zrcNOM4n18Wf93EsPx4=",
       "url": "_framework/RatChessTournament.wasm"
     },
     {
@@ -82,11 +82,11 @@ self.assetsManifest = {
       "url": "_framework/System.ComponentModel.wasm"
     },
     {
-      "hash": "sha256-hPECRwlKEllkRT2QC9o5MzZUIgUzftKpUrz33UPLVJw=",
+      "hash": "sha256-av1eNgJgpg1afisqES70BMJKwQxkTAK8Iu8HugeLo24=",
       "url": "_framework/System.Console.wasm"
     },
     {
-      "hash": "sha256-Hdt7Xco6IbrCFf36PoahAQKmGPy7e1nc9MazSSlLBW8=",
+      "hash": "sha256-HNUZ4CRg1SdywOJp7P36a/BN9omA3aOhXEpsjpyhkk8=",
       "url": "_framework/System.Linq.wasm"
     },
     {
@@ -102,7 +102,7 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-EueNenB7T23j2XHLFJngMq+bFplEnyTlfzYBM4a4BXc=",
+      "hash": "sha256-pz3xkv+euvuBY0taKR67mGz3C5PnJVV62fmSqFfRu/U=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -114,7 +114,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-H+waIfkLEw6UFSdSlqL2mPr5Bihj7v3TtS0cQgKJwq0=",
+      "hash": "sha256-ZQJQf4g0aHALyAbKQ+gWB20JIyPmITSQLkeQk4j3sQU=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -134,7 +134,7 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.wasm"
     },
     {
-      "hash": "sha256-bTH4K99brXS84QShY4qn3/yJ0nxQBVOLqb/Nx8BuYL0=",
+      "hash": "sha256-DHGpcPqwgzHPplLaQzROjya1WVEPeV5ADRwgu8xNKc8=",
       "url": "_framework/blazor.boot.json"
     },
     {
